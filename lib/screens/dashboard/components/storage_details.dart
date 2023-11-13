@@ -4,8 +4,8 @@ import '../../../constants.dart';
 import 'chart.dart';
 import 'storage_info_card.dart';
 
-class StorageDetails extends StatelessWidget {
-  const StorageDetails({
+class StarageDetails extends StatelessWidget {
+  const StarageDetails({
     Key? key,
   }) : super(key: key);
 
